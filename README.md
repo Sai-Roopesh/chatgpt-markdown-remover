@@ -22,7 +22,7 @@
 
 1. **Download or Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/chatgpt-markdown-remover.git
+   git clone https://github.com/Sai-Roopesh/chatgpt-markdown-remover.git
    ```
 2. **Open Chrome Extensions Page:**
 
